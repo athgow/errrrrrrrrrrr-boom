@@ -1,9 +1,10 @@
 {
-    "name": "errrrrrrrrrrr boom?",
+    "name": "ultra sonic",
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.3.6"
     },
     "files": [
         "main.blocks",

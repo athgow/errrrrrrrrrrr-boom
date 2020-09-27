@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="wA.H:5R+Y82f(`tk!,_b" x="20" y="20"/><block type="device_forever" id="5BUS[o4wztlzWfdoU8zz" x="225" y="20"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="A,lNi+N*z{i_~B6uoSj5">counter</variable></variables></xml>
